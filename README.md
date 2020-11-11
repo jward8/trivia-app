@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# React Trivia App
+
+## Description
+
+This is a Trivia App that is going to be built off of react that uses the Trivia DB API
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
